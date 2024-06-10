@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {"model": "tishka:block/kakoito_block",
+      "light_emission": 10
+    }
+  }
+}
